@@ -1,0 +1,8 @@
+#Nama : OLDIE AL GHI FARY
+#NIM:191011400641
+#UTS KECERDASAN BUATAN LOOPING
+
+#THE RANGE()FUNGCTION
+print(range(10))
+print(list(range(10)))
+print(list(range(2, 8)))
